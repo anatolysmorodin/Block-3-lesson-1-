@@ -1,0 +1,15 @@
+/Users/anatolysmorodin/Desktop/C#/Example 001 Hello/bin/Debug/net7.0/Example 001 Hello
+/Users/anatolysmorodin/Desktop/C#/Example 001 Hello/bin/Debug/net7.0/Example 001 Hello.deps.json
+/Users/anatolysmorodin/Desktop/C#/Example 001 Hello/bin/Debug/net7.0/Example 001 Hello.runtimeconfig.json
+/Users/anatolysmorodin/Desktop/C#/Example 001 Hello/bin/Debug/net7.0/Example 001 Hello.dll
+/Users/anatolysmorodin/Desktop/C#/Example 001 Hello/bin/Debug/net7.0/Example 001 Hello.pdb
+/Users/anatolysmorodin/Desktop/C#/Example 001 Hello/obj/Debug/net7.0/Example 001 Hello.csproj.AssemblyReference.cache
+/Users/anatolysmorodin/Desktop/C#/Example 001 Hello/obj/Debug/net7.0/Example 001 Hello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anatolysmorodin/Desktop/C#/Example 001 Hello/obj/Debug/net7.0/Example 001 Hello.AssemblyInfoInputs.cache
+/Users/anatolysmorodin/Desktop/C#/Example 001 Hello/obj/Debug/net7.0/Example 001 Hello.AssemblyInfo.cs
+/Users/anatolysmorodin/Desktop/C#/Example 001 Hello/obj/Debug/net7.0/Example 001 Hello.csproj.CoreCompileInputs.cache
+/Users/anatolysmorodin/Desktop/C#/Example 001 Hello/obj/Debug/net7.0/Example 001 Hello.dll
+/Users/anatolysmorodin/Desktop/C#/Example 001 Hello/obj/Debug/net7.0/refint/Example 001 Hello.dll
+/Users/anatolysmorodin/Desktop/C#/Example 001 Hello/obj/Debug/net7.0/Example 001 Hello.pdb
+/Users/anatolysmorodin/Desktop/C#/Example 001 Hello/obj/Debug/net7.0/Example 001 Hello.genruntimeconfig.cache
+/Users/anatolysmorodin/Desktop/C#/Example 001 Hello/obj/Debug/net7.0/ref/Example 001 Hello.dll
