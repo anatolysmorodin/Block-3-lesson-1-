@@ -1,0 +1,15 @@
+/Users/anatolysmorodin/Desktop/C#/Example 003 delete/obj/Debug/net7.0/Example 003 delete.csproj.AssemblyReference.cache
+/Users/anatolysmorodin/Desktop/C#/Example 003 delete/obj/Debug/net7.0/Example 003 delete.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anatolysmorodin/Desktop/C#/Example 003 delete/obj/Debug/net7.0/Example 003 delete.AssemblyInfoInputs.cache
+/Users/anatolysmorodin/Desktop/C#/Example 003 delete/obj/Debug/net7.0/Example 003 delete.AssemblyInfo.cs
+/Users/anatolysmorodin/Desktop/C#/Example 003 delete/obj/Debug/net7.0/Example 003 delete.csproj.CoreCompileInputs.cache
+/Users/anatolysmorodin/Desktop/C#/Example 003 delete/bin/Debug/net7.0/Example 003 delete
+/Users/anatolysmorodin/Desktop/C#/Example 003 delete/bin/Debug/net7.0/Example 003 delete.deps.json
+/Users/anatolysmorodin/Desktop/C#/Example 003 delete/bin/Debug/net7.0/Example 003 delete.runtimeconfig.json
+/Users/anatolysmorodin/Desktop/C#/Example 003 delete/bin/Debug/net7.0/Example 003 delete.dll
+/Users/anatolysmorodin/Desktop/C#/Example 003 delete/bin/Debug/net7.0/Example 003 delete.pdb
+/Users/anatolysmorodin/Desktop/C#/Example 003 delete/obj/Debug/net7.0/Example 003 delete.dll
+/Users/anatolysmorodin/Desktop/C#/Example 003 delete/obj/Debug/net7.0/refint/Example 003 delete.dll
+/Users/anatolysmorodin/Desktop/C#/Example 003 delete/obj/Debug/net7.0/Example 003 delete.pdb
+/Users/anatolysmorodin/Desktop/C#/Example 003 delete/obj/Debug/net7.0/Example 003 delete.genruntimeconfig.cache
+/Users/anatolysmorodin/Desktop/C#/Example 003 delete/obj/Debug/net7.0/ref/Example 003 delete.dll
